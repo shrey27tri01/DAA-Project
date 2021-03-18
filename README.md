@@ -1,2 +1,2 @@
 # DAA-Theory-Project
-Project report for DAA 
+Our project report for the Design and Analysis of Algorithms course
